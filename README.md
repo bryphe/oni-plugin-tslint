@@ -13,7 +13,7 @@ To get started:
 - Run `npm install` in the cloned path
 - Restart Oni
 
-For best results, you should have a `tslint.json` file defined. You can find information about the specification [here]
+For best results, you should have a `tslint.json` file defined. You can find information about the specification [here](https://palantir.github.io/tslint/usage/tslint-json/)
 
 ## Features
 
