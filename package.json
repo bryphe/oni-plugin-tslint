@@ -1,6 +1,6 @@
 {
     "name": "oni-plugin-tslint",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "lib/index.js",
     "engines": {
         "oni": "^0.0.1"
@@ -23,7 +23,7 @@
     },
     "devDependencies": {
         "find-up": "2.1.0",
-        "tslint": "4.0.2",
+        "tslint": "5.7.0",
         "typescript": "2.4.2"
     }
 }
