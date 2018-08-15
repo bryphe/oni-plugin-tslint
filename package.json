@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "main": "lib/index.js",
   "engines": {
-    "oni": "^0.0.1"
+    "oni": "0.3.6"
   },
   "scripts": {},
   "oni": {
